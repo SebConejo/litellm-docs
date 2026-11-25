@@ -945,6 +945,13 @@
       "rerank"
     ]
   },
+  "providers/weflayr": {
+    "prefix": "weflayr",
+    "capabilities": [
+      "chat",
+      "embeddings"
+    ]
+  },
   "providers/xiaomi_mimo": {
     "prefix": "xiaomi_mimo",
     "capabilities": [

@@ -2051,6 +2051,7 @@ const providersSidebar = {
     { type: "category", label: "WatsonX", className: "sidebar-provider", link: { type: "doc", id: "providers/watsonx/index" }, items: [
       "providers/watsonx/audio_transcription",
     ] },
+    "providers/weflayr",
     "providers/xiaomi_mimo",
     "providers/zai",
     "providers/zerogpu",
